@@ -145,7 +145,9 @@
 v0.01<br/>
 崔维友<br/>
 2017.07<br/>
- [www.cuiweiyou.com](http://www.cuiweiyou.com)<br/>
+
+ [威格灵博客](http://www.cuiweiyou.com "http://www.cuiweiyou.com")  
+ 
 <br/> 
 
  ![libgdxGuideNorth](https://github.com/731942771/LibGDX2DGameGuideNorth/blob/master/weixin.png)
