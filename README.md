@@ -4,7 +4,11 @@
 
 # LibGDX2D游戏开发指北
 <br/>
+<<<<<<< HEAD
  ![image](badlogic.jpg)<br/>
+=======
+ ![LibGDX2DGameGuideNorth](./badlogic.jpg) <br/>
+>>>>>>> 4dc4273393d428b48f533b2a4b2fe0340e1980da
 <br/>
 开源书籍。<br/>
 在AndroidStudio环境基于1.9.6版gdx进行2D游戏开发。<br/>
